@@ -63,6 +63,7 @@ p {
     background-color: black;
     position: fixed;
     padding-top: 60px;
+    text-align: center;
     transition: 0.5s;
 }
 
