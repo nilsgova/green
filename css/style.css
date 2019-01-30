@@ -97,7 +97,7 @@ header {
     margin-bottom: 100px;
 }
 
-@media screen and (max-width:680px) {
+@media (max-width:680px) {
     header {
         background-image: url(../resources/eoly1_mobile.png);
     }
